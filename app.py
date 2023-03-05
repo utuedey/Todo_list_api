@@ -46,7 +46,7 @@ def not_found(error):
 
 @auth.get_password
 def get_password(username):
-    if username == "miguel":
+    if username == "Jovial":
         return 'python'
     return None
 
