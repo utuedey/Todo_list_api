@@ -52,6 +52,10 @@ git clone https://github.com/utuedey/Todo_list_api.git
  ```
  source environment_name/Scripts/activate
  ````
+Install Flask
+```
+pip install flask
+```
 start the app using the command below
 ```
 python app.py
