@@ -33,3 +33,33 @@ Then open a console window and run the following command
 ```
 curl -i http://[localhost]/todo/api/v1.0/task
 ```
+
+## Installation
+
+git clone the repository
+```
+git clone https://github.com/utuedey/Todo_list_api.git
+```
+ change directory
+ ```
+ cd Todo_list_api
+ ```
+ Create a virtual env
+ ```
+ python3 -m venv environment_name
+ ```
+ activate the environment
+ ```
+ source environment_name/Scripts/activate
+ ````
+start the app using the command below
+```
+python app.py
+```
+You can now successfully use the web service
+
+# Credits 
+- [Miguel Grinberg ] <https://blog.miguelgrinberg.com/index>
+
+# Author
+- [Joseph Utuedeye] <https://twitter.com/joecodes2>
